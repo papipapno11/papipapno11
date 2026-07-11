@@ -38,7 +38,8 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Studium mit und
 ## 🛠️ Woran ich aktuell arbeite
 
 ### 📊 End-to-End People Analytics Platform (In Umsetzung)
-**Fokus:** Strategische HR-Analyse (Demografischer Wandel & Fluktuation) mit dem Microsoft- & Open-Source-Data-Stack.
+**Fokus:** Strategische HR-Analyse (Demografischer Wandel & Fluktuation) mit dem Microsoft- & Open-Source-Data-Stack. | 
+📊 **Datensatz:** [IBM HR Analytics Attrition Dataset (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
 
 * **Das Projektziel:** Schaffung einer datenschutzkonformen „Single Source of Truth“, die unstrukturierte Daten bereinigt, zentralisiert und in gewohnte Excel-Pivot-Umgebungen für die Fachabteilung überführt.
 * **Die Pipeline & der Tool-Einsatz:**
@@ -53,7 +54,7 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Studium mit und
 ## 📂 Ausgewählte Projekte (Abgeschlossen)
 
 ### 📈 End-to-End E-Commerce Analytics Platform (Olist)
-💻 [**Zum GitHub-Repository**](https://github.com/papipapno11/olist-ecommerce-analytics-snowflake-dbt-powerbi)
+💻 [**Zum GitHub-Repository**](https://github.com/papipapno11/olist-ecommerce-analytics-snowflake-dbt-powerbi) | 📊 **Datensatz:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 * **Stack:** `Snowflake | dbt | SQL | Power BI | DAX | Git`
 * **Impact:** Aufbau einer modular skalierbaren Cloud-Datenplattform für 100k Bestellungen. Strukturierung einer modernen ELT-Pipeline über einen dreistufigen dbt-Layer (Staging, Intermediate, Marts) inklusive automatisierter Schema- und Integritätstests zur Sicherung der Datenqualität. Aufdeckung einer kritischen Umsatzkonzentration (76 % Umsatztreiber in den Top 15 Kategorien) via Star-Schema-Dashboard.
 
