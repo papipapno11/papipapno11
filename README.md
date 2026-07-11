@@ -53,10 +53,12 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Studium mit und
 ## 📂 Ausgewählte Projekte (Abgeschlossen)
 
 ### 📈 End-to-End E-Commerce Analytics Platform (Olist)
+💻 [**Zum GitHub-Repository**](https://github.com/papipapno11/olist-ecommerce-analytics-snowflake-dbt-powerbi)
 * **Stack:** `Snowflake | dbt | SQL | Power BI | DAX | Git`
 * **Impact:** Aufbau einer modular skalierbaren Cloud-Datenplattform für 100k Bestellungen. Strukturierung einer modernen ELT-Pipeline über einen dreistufigen dbt-Layer (Staging, Intermediate, Marts) inklusive automatisierter Schema- und Integritätstests zur Sicherung der Datenqualität. Aufdeckung einer kritischen Umsatzkonzentration (76 % Umsatztreiber in den Top 15 Kategorien) via Star-Schema-Dashboard.
 
 ### 🔬 Bachelorarbeit: Asymmetrische Dissimilaritäten beim Clustering
+💻 [**Zum GitHub-Repository**](https://github.com/papipapno11/asymmetric-graph-clustering)
 * **Stack:** `Python | NumPy | Pandas | NetworkX`
 * **Impact:** Entwicklung einer vollständig vektorisierten Erweiterung des $k$-Means-Algorithmus zur fehlerfreien Verarbeitung gerichteter Graphstrukturen. Erzielung einer konstanten Laufzeit von 0,020 s pro algorithmischem Restart sowie Steigerung der Clustering-Genauigkeit (ARI) im VBB-Infrastrukturnetzwerk um 5,7 % gegenüber klassischen symmetrischen Algorithmen.
 
