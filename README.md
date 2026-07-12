@@ -7,11 +7,11 @@
 
 ## 🚀 Über mich
 
-Ich bin Wirtschaftsinformatiker (B.Sc.) und fokussiere mich voll auf die datengetriebene Business-Analyse. Daten sind für mich kein Selbstzweck. Mich reizt es, verstreute Datenquellen zusammenzuführen und so aufzubereiten, dass operative Teams verlässliche Entscheidungen treffen können.
+Ich bin Wirtschaftsinformatiker (B.Sc.) und fokussiere mich voll auf die datengetriebene Business-Analyse. Da Daten für mich kein Selbstzweck sind, reizt es mich besonders, verstreute Quellen so zusammenzuführen und aufzubereiten, dass operative Teams verlässliche Entscheidungen treffen können. 
 
-Durch meine mehr als einjährige Praxiserfahrung als Werkstudent im Bereich Datenanalyse weiß ich, wie man isolierte Datensilos aufbricht. Bei der Getiteasy GmbH lag mein Schwerpunkt darauf, CRM- und Marketingdaten zentral zu verknüpfen, um Marketing-Ausgaben direkt mit echten Vertriebs-Umsätzen abzugleichen und unprofitable Hebel zu eliminieren.
+Durch meine mehr als einjährige Praxiserfahrung als Praktikant und Werkstudent im Bereich Datenanalyse weiß ich, wie man isolierte Datensilos aufbricht. Bei der Getiteasy GmbH lag mein Schwerpunkt darauf, CRM- und Marketingdaten zentral zu verknüpfen, um Marketing-Ausgaben direkt mit echten Vertriebs-Umsätzen abzugleichen und unprofitable Hebel zu eliminieren.
 
-Ich bringe ein starkes logisch-analytisches Fundament aus meinem Studium mit und kombiniere dieses technische Verständnis mit meinen Erfahrungen aus dem Controlling, um Berichte und Datenstrukturen performant, sauber und vor allem geschäftlich sinnvoll aufzubauen.
+Ich bringe ein starkes logisch-analytisches Fundament aus meinem Wirtschaftsinformatik-Studium mit und nutze dieses Verständnis, um Datenstrukturen und Berichte von Grund auf performant, sauber und vor allem geschäftlich sinnvoll aufzubauen.
 
 ## 🛠️ Technische Fähigkeiten 
 
@@ -42,10 +42,8 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Studium mit und
 📊 **Datensatz:** [IBM HR Analytics Attrition Dataset (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
 
 * **Das Projektziel:** Schaffung einer datenschutzkonformen „Single Source of Truth“, die unstrukturierte Daten bereinigt, zentralisiert und in gewohnte Excel-Pivot-Umgebungen für die Fachabteilung überführt.
-* **Die Pipeline & der Tool-Einsatz:**
-  `[Kaggle IBM Data] ──> (Python/Pandas) ──> [PostgreSQL Staging] ── [PostgreSQL Core Schema] ──> [Fabric Lakehouse] ── (Semantisches Modell) ──> [Excel Pivot-Dashboard]`
-* **Stufe 1 (Python & Pandas):** Einlesen, transformieren und anonymisieren sensibler Personaldaten (DSGVO-Hashing) sowie Berechnung eines Kündigungsrisikos in %.
-* **Stufe 2 (PostgreSQL):** Transformation flacher Tabellen in ein performantes Sternschema (Star Schema) inklusive Erstellung von Dimensionen, Fakten und erweiterten Metriken (z. B. Compa-Ratio via Window Functions & CTEs).
+* **Stufe 1 (Python & Pandas):** Einlesen, transformieren und anonymisieren sensibler Personaldaten (DSGVO-Hashing).
+* **Stufe 2 (PostgreSQL):** Transformation flacher Tabellen in ein performantes Sternschema (Star Schema) inklusive Erstellung von Dimensionen, Fakten und erweiterten Metriken.
 * **Stufe 3 (Microsoft Fabric):** Orchestrierung automatisierter Cloud-Pipelines von PostgreSQL ins Fabric Lakehouse (Delta-Format) und Bereitstellung des zentralen Semantischen Modells.
 * **Stufe 4 (Excel Frontend):** Cloud-Direktanbindung ohne lokalen Daten-Download, Implementierung komplexer DAX-Measures für dynamische Fluktuationsquoten sowie der Aufbau interaktiver Pivot-Tabellen und Slicer-Dashboards.
 
@@ -71,4 +69,4 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Studium mit und
 
 ## 🌱 Woran ich aktuell lerne
 
-* **Microsoft Fabric:** Vertiefung von Cloud-Orchestrierungen, Lakehouse-Architekturen (Delta-Format) und dem Design zentraler semantischer Modelle für Unternehmenseinsätze.
+* **Microsoft Fabric & Excel:** Vertiefung von Cloud-Orchestrierungen, Lakehouse-Architekturen (Delta-Format) und dem Design zentraler semantischer Modelle sowie fortgeschrittenen Analysen mittels Excel-Pivot-Tabellen für den Unternehmenseinsatz.
