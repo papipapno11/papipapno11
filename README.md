@@ -64,9 +64,3 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Wirtschaftsinfo
 ### 🏫 Datenbankgestützte Hochschulverwaltung
 * **Stack:** `PostgreSQL | SQL | Python | Streamlit`
 * **Impact:** Optimierung der Abbildung komplexer Hochschuldaten durch den Entwurf eines relationalen 3NF PostgreSQL-Schemas mit mehreren verknüpften Entitäten. Effizienzsteigerung bei Analyse- und Abfrageprozessen durch gezielte Indexierung sowie Entwicklung eines interaktiven Streamlit-Dashboards zur intuitiven Visualisierung von Personen-, Raum- und Prüfungsdaten.
-
----
-
-## 🌱 Woran ich aktuell lerne
-
-* **Microsoft Fabric & Excel:** Vertiefung von Cloud-Orchestrierungen, Lakehouse-Architekturen (Delta-Format) und dem Design zentraler semantischer Modelle sowie fortgeschrittenen Analysen mittels Excel-Pivot-Tabellen für den Unternehmenseinsatz.
