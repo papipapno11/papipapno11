@@ -35,20 +35,6 @@ Ich bringe ein starkes logisch-analytisches Fundament aus meinem Wirtschaftsinfo
 
 ---
 
-## 🛠️ Woran ich aktuell arbeite
-
-### 📊 End-to-End People Analytics Platform (In Umsetzung)
-**Fokus:** Strategische HR-Analyse (Demografischer Wandel & Fluktuation) mit dem Microsoft- & Open-Source-Data-Stack. | 
-📊 **Datensatz:** [IBM HR Analytics Attrition Dataset (Kaggle)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
-
-* **Das Projektziel:** Schaffung einer datenschutzkonformen „Single Source of Truth“, die unstrukturierte Daten bereinigt, zentralisiert und in gewohnte Excel-Pivot-Umgebungen für die Fachabteilung überführt.
-* **Stufe 1 (Python & Pandas):** Einlesen, transformieren und anonymisieren sensibler Personaldaten (DSGVO-Hashing).
-* **Stufe 2 (PostgreSQL):** Transformation flacher Tabellen in ein performantes Sternschema (Star Schema) inklusive Erstellung von Dimensionen, Fakten und erweiterten Metriken.
-* **Stufe 3 (Microsoft Fabric):** Orchestrierung automatisierter Cloud-Pipelines von PostgreSQL ins Fabric Lakehouse (Delta-Format) und Bereitstellung des zentralen Semantischen Modells.
-* **Stufe 4 (Excel Frontend):** Cloud-Direktanbindung ohne lokalen Daten-Download, Implementierung komplexer DAX-Measures für dynamische Fluktuationsquoten sowie der Aufbau interaktiver Pivot-Tabellen und Slicer-Dashboards.
-
----
-
 ## 📂 Ausgewählte Projekte (Abgeschlossen)
 
 ### 📈 End-to-End E-Commerce Analytics Platform (Olist)
